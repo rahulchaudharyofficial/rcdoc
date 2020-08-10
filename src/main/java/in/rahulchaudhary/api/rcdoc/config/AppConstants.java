@@ -56,7 +56,7 @@ public interface AppConstants {
                 "</center></body></html>";
 
          String ROOT_DIRECTORY = "ApexDocumentation";
-         String DEFAULT_HOME_CONTENTS = "<h1>Project Home</h2>";
+         String DEFAULT_HOME_CONTENTS = "<h1>Apex API Docs</h2>";
          String PROJECT_DETAIL =
                 "<div class='topsection'>" +
                         "<table>" +
@@ -64,7 +64,7 @@ public interface AppConstants {
                         "<img src='apex_doc_logo.png' style='border:1px solid #000;'/>" +
                         "</td>" + */
                         "<td>" +
-                        "<h2 style='margin:0px;'>Project Demo</h2>" +
+                        "<h2 style='margin:0px;'>Apex API Docs</h2>" +
                         "Check out the project at:<br/>" +
                         "<a href='https://github.com/rahulchaudharyofficial/rcdoc'>GitHub</a><br/>";
 }
