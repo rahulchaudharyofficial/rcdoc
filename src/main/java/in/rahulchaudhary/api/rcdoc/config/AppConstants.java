@@ -64,7 +64,6 @@ public interface AppConstants {
                         "<img src='apex_doc_logo.png' style='border:1px solid #000;'/>" +
                         "</td>" + */
                         "<td>" +
-                        "<h2 style='margin:0px;'>Apex API Docs</h2>" +
-                        "Check out the project at:<br/>" +
-                        "<a href='https://github.com/rahulchaudharyofficial/rcdoc'>GitHub</a><br/>";
+                        "<h2 style='margin:0px;'>Apex API Docs</h2>";
+                        
 }
